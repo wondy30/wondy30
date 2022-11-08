@@ -1,5 +1,5 @@
 - 👋 Hi, there!
-- My name is Wenday (Wun-day) Seyoum and I'm a data scientist and geospatial expert. I like working with geospation and timeseries data, machine learning, and remote sensing. Currently, I am working on multiple projects involving machine learning and satellite remote sensing. 
+- My name is Wenday (Wun-day) Seyoum and I'm a data scientist and geospatial expert. I like working with geospatial and timeseries data, machine learning, and remote sensing. Currently, I am working on multiple projects involving machine learning and satellite remote sensing. 
 
 
 <!---
